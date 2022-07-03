@@ -1,0 +1,23 @@
+div{
+    background-color:darkgray;
+    margin: 20px 10px;
+    border: 5px solid fuchsia;
+    border-radius: 20px;
+    padding: 10px 10px;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    color: green;
+}
+h3{
+    color: navy;
+    text-align: center;
+    font-size: 30px;
+}
+.pnam{
+    color: yellow;
+    font-size: 20px;
+}
